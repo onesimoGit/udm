@@ -64,7 +64,7 @@
 
 		<!-- (end) components -->
 
-		<script src='less.js' type="text/javascript" ></script>	
+		<script src='less.js' type="text/javascript" ></script>
 
 	</head>
 
